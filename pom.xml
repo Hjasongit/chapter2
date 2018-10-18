@@ -16,7 +16,7 @@
     <description>示例</description>
     <properties>
         <file.encoding>UTF-8</file.encoding>
-        <spring.version>5.0.5.RELEASE</spring.version>
+        <spring.version>5.0.6.RELEASE</spring.version>
         <mysql.version>5.1.29</mysql.version>
         <servlet.version>2.5</servlet.version>
     </properties>
